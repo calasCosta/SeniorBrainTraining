@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86442715520",
+    "project_id": "seniorbraintraining",
+    "storage_bucket": "seniorbraintraining.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86442715520:android:ab1da57e5e0938af2b3965",
+        "android_client_info": {
+          "package_name": "com.example.seniorbraintraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86442715520-tvp35inm7fkhlm0r70i2u278b3daf6la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc2PHQSg2qzXk5eQAVWHsfXI02LasgyHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86442715520-tvp35inm7fkhlm0r70i2u278b3daf6la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
